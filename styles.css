@@ -10,9 +10,13 @@ h2{
     padding: 1% 0 5%;
 }
 
-img{
+.dice{
     width: 200px;
     height: 200px;
+}
+
+.refresh{
+    padding-top: 7%;
 }
 
 .playerBox{
